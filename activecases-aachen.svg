@@ -33,20 +33,20 @@
   <polyline points="34.012,196.1296 27.012,196.1296" style="fill:none;stroke:black;stroke-width:1" />
   <polyline points="34.012,131.6813 27.012,131.6813" style="fill:none;stroke:black;stroke-width:1" />
   <polyline points="34.012,67.2329 27.012,67.2329" style="fill:none;stroke:black;stroke-width:1" />
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(58.6291,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">15. August</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(173.509,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">29. August</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(288.3889,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">12. September</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(403.2688,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">26. September</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(518.1486,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">10. October</text>
-  <polyline points="58.6291,370.947 58.6291,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="173.509,370.947 173.509,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="288.3889,370.947 288.3889,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="403.2688,370.947 403.2688,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="518.1486,370.947 518.1486,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,350.8056 50.4234,339.2049 75.0405,346.9387 83.2462,339.2049 91.4519,344.3608 99.6576,337.9159 107.8634,339.2049 132.4805,340.4939 140.6862,350.8056 148.8919,352.0946 157.0976,349.5166 165.3033,349.5166 189.9204,358.5394 198.1261,362.4063 206.3318,362.4063 214.5375,359.8284 222.7432,361.1173 247.3604,361.1173 255.5661,367.5622 263.7718,363.6953 271.9775,355.9615 280.1832,350.8056 304.8003,337.9159 313.006,328.8932 321.2117,316.0035 329.4174,314.7145 337.6231,310.8476 362.2402,322.4483 370.4459,325.0263 378.6516,323.7373 386.8574,318.5814 395.0631,312.1366 419.6802,281.2014 427.8859,285.0683 436.0916,286.3573 444.2973,267.0228 452.503,248.9772 477.1201,228.3538 485.3258,246.3993 493.5315,229.6427 501.7372,211.5972 509.9429,206.4413 534.5601,167.7723 542.7658,197.4186 550.9715,181.951 559.1772,147.1489 567.3829,96.8792 592,32.4308" style="fill:none;stroke:rgb(31,119,180);stroke-width:2;stroke-linejoin:bevel" />
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(313.006,8)" font-family="Segoe UI" font-size="18" font-weight="700" fill="black">Aktive Fälle Stadt Aachen 19.10.2020</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(58.2723,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">15. August</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(171.4873,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">29. August</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(284.7023,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">12. September</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(397.9172,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">26. September</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(511.1322,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">10. October</text>
+  <polyline points="58.2723,370.947 58.2723,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="171.4873,370.947 171.4873,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="284.7023,370.947 284.7023,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="397.9172,370.947 397.9172,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="511.1322,370.947 511.1322,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,350.8056 50.1856,339.2049 74.4459,346.9387 82.5327,339.2049 90.6195,344.3608 98.7063,337.9159 106.793,339.2049 131.0534,340.4939 139.1402,350.8056 147.227,352.0946 155.3137,349.5166 163.4005,349.5166 187.6609,358.5394 195.7477,362.4063 203.8344,362.4063 211.9212,359.8284 220.008,361.1173 244.2683,361.1173 252.3551,367.5622 260.4419,363.6953 268.5287,355.9615 276.6155,350.8056 300.8758,337.9159 308.9626,328.8932 317.0494,316.0035 325.1362,314.7145 333.223,310.8476 357.4833,322.4483 365.5701,325.0263 373.6569,323.7373 381.7437,318.5814 389.8304,312.1366 414.0908,281.2014 422.1776,285.0683 430.2643,286.3573 438.3511,267.0228 446.4379,248.9772 470.6983,228.3538 478.785,246.3993 486.8718,229.6427 494.9586,211.5972 503.0454,206.4413 527.3057,167.7723 535.3925,197.4186 543.4793,181.951 551.5661,147.1489 559.6529,96.8792 583.9132,32.4308 592,36.2977" style="fill:none;stroke:rgb(31,119,180);stroke-width:2;stroke-linejoin:bevel" />
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(313.006,8)" font-family="Segoe UI" font-size="18" font-weight="700" fill="black">Aktive Fälle Stadt Aachen 20.10.2020</text>
   <polygon points="34.012,29.0795 592,29.0795 592,370.947 34.012,370.947" style="fill:none;stroke:black;stroke-width:1" />
   <polygon points="42.012,37.0795 228.483,37.0795 228.483,63.1325 42.012,63.1325" style="fill:none;stroke:none;" />
-  <text dominant-baseline="hanging" text-anchor="start" transform="translate(70.012,45.0795)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">Aktive Fälle Stadt Aachen 19.10.2020</text>
+  <text dominant-baseline="hanging" text-anchor="start" transform="translate(70.012,45.0795)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">Aktive Fälle Stadt Aachen 20.10.2020</text>
   <polyline points="50.012,50.106 66.012,50.106" style="fill:none;stroke:rgb(31,119,180);stroke-width:2" />
 </svg>
