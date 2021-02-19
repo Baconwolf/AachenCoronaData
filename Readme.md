@@ -12,7 +12,7 @@ Im folgenden sieht man
 
 ```
 "Anzahl gemeldete Fälle Heute(Infektion älter als 7 Tage)" /
-"Anzahl gemeldete Fällte Heute" (Anteil der alten Fälle in Prozent).
+"Anzahl gemeldete Fälle Heute"(Anteil der alten Fälle in Prozent)
 ```
 
 Die RKI-Daten stammen vom [COVID-19 Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0)
