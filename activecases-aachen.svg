@@ -2,44 +2,46 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="600" height="400" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
   <rect x="0" y="0" width="600" height="400" style="fill:rgb(255,255,255);stroke:none;" />
-  <polyline points="34.012,352.9334 30.012,352.9334" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,330.7687 30.012,330.7687" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,308.6039 30.012,308.6039" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,264.2743 30.012,264.2743" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,242.1096 30.012,242.1096" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,219.9448 30.012,219.9448" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,175.6152 30.012,175.6152" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,153.4505 30.012,153.4505" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,131.2857 30.012,131.2857" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,86.9562 30.012,86.9562" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,64.7914 30.012,64.7914" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,42.6266 30.012,42.6266" style="fill:none;stroke:black;stroke-width:1" />
-  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,286.4391)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">200</text>
-  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,197.78)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">400</text>
-  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,109.1209)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">600</text>
-  <polyline points="34.012,286.4391 27.012,286.4391" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,197.78 27.012,197.78" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,109.1209 27.012,109.1209" style="fill:none;stroke:black;stroke-width:1" />
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(79.562,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. September</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(147.8871,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. October</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(218.4897,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. November</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(286.8147,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. December</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(357.4173,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. January</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(428.0199,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. February</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(491.7899,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. March</text>
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(562.3925,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. April</text>
-  <polyline points="79.562,370.947 79.562,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="147.8871,370.947 147.8871,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="218.4897,370.947 218.4897,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="286.8147,370.947 286.8147,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="357.4173,370.947 357.4173,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="428.0199,370.947 428.0199,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="491.7899,370.947 491.7899,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="562.3925,370.947 562.3925,377.947" style="fill:none;stroke:black;stroke-width:1" />
-  <polyline points="34.012,361.7993 38.567,357.8097 45.3995,360.4694 47.677,357.8097 49.9545,359.5829 52.232,357.3664 54.5095,357.8097 61.342,358.253 63.6195,361.7993 65.897,362.2426 68.1745,361.356 70.452,361.356 77.2845,364.4591 79.562,365.789 81.8395,365.789 84.117,364.9024 86.3945,365.3457 93.2271,365.3457 95.5046,367.5622 97.7821,366.2323 100.0596,363.5725 102.3371,361.7993 109.1696,357.3664 111.4471,354.2633 113.7246,349.8304 116.0021,349.3871 118.2796,348.0572 125.1121,352.0468 127.3896,352.9334 129.6671,352.4901 131.9446,350.7169 134.2221,348.5005 141.0546,337.8614 143.3321,339.1913 145.6096,339.6346 147.8871,332.9851 150.1646,326.779 156.9971,319.6863 159.2746,325.8924 161.5521,320.1296 163.8296,313.9234 166.1071,312.1502 172.9396,298.8514 175.2171,309.0472 177.4946,303.7276 179.7721,291.7587 182.0496,274.4701 188.8821,252.3054 191.1596,253.6352 193.4371,250.9755 195.7146,230.5839 197.9921,226.5942 204.8247,166.7493 207.1022,183.1513 209.3797,183.1513 211.6572,178.275 213.9347,151.6773 220.7672,160.0999 223.0447,204.4294 225.3222,194.6769 227.5997,181.8214 229.8772,176.5018 236.7097,146.801 238.9872,164.9762 241.2647,152.1206 245.8197,127.296 252.6522,121.9765 254.9297,146.801 257.2072,153.4505 259.4847,125.5229 261.7622,147.2443 268.5947,167.6359 270.8722,184.0379 273.1497,178.275 275.4272,192.0172 277.7047,171.1823 284.5372,145.0279 286.8147,159.6566 289.0922,182.2647 291.3697,174.2854 293.6472,185.811 300.4797,130.3991 302.7572,153.8938 305.0347,166.7493 307.3122,144.5846 309.5897,130.3991 316.4223,86.0696 318.6998,113.9972 320.9773,124.6363 323.2548,109.5642 325.5323,85.6263 332.3648,51.4925 334.6423,77.6469 336.9198,99.8117 348.3073,50.1626 350.5848,74.1006 352.8623,91.8324 355.1398,73.214 364.2498,73.6573 366.5273,97.5952 368.8048,131.2857 371.0823,138.8217 373.3598,113.1106 382.4698,162.3164 384.7473,184.9244 387.0248,175.1719 389.3023,199.9965 396.1348,214.6252 398.4123,240.3364 400.6898,246.9858 402.9673,245.2126 405.2448,241.223 412.0773,240.7797 416.6323,250.9755 418.9098,232.3571 421.1873,220.3881 428.0199,222.1613 430.2974,242.5529 432.5749,260.2847 434.8524,251.8621 437.1299,251.8621 443.9624,267.8207 446.2399,279.3464 448.5174,272.6969 450.7949,259.3981 453.0724,246.0992 459.9049,255.8517 462.1824,288.6556 464.4599,286.8824 466.7374,277.5732 469.0149,297.5215 475.8474,305.9441 478.1249,313.9234 480.4024,308.6039 482.6799,306.8307 484.9574,309.0472 491.7899,311.2637 494.0674,322.346 496.3449,314.81 498.6224,290.8721 500.8999,289.5422 507.7324,271.3671 510.0099,271.3671 512.2874,264.2743 514.5649,253.1919 516.8424,239.4498 523.6749,230.1406 525.9524,231.4705 528.2299,232.3571 530.5074,204.4294 532.7849,185.3677 539.6175,161.8731 541.895,162.3164 544.1725,164.0896 546.45,133.5022 548.7275,127.7393 555.56,123.7497 557.8375,155.2237 560.115,161.4298 562.3925,150.7907 564.67,118.4301 573.78,98.4818 576.0575,102.0282 578.335,69.6676 580.6125,62.5749 587.445,54.5956 589.7225,56.8121 592,32.4308" style="fill:none;stroke:rgb(31,119,180);stroke-width:2;stroke-linejoin:bevel" />
-  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(313.006,8)" font-family="Segoe UI" font-size="18" font-weight="700" fill="black">Aktive Fälle Stadt Aachen 14.04.2021</text>
+  <polyline points="34.012,353.686 30.012,353.686" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,332.6614 30.012,332.6614" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,311.6369 30.012,311.6369" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,269.5878 30.012,269.5878" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,248.5632 30.012,248.5632" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,227.5387 30.012,227.5387" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,185.4896 30.012,185.4896" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,164.465 30.012,164.465" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,143.4404 30.012,143.4404" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,101.3913 30.012,101.3913" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,80.3668 30.012,80.3668" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,59.3422 30.012,59.3422" style="fill:none;stroke:black;stroke-width:1" />
+  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,290.6123)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">200</text>
+  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,206.5141)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">400</text>
+  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,122.4159)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">600</text>
+  <text dominant-baseline="middle" text-anchor="end" transform="translate(23.012,38.3177)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">800</text>
+  <polyline points="34.012,290.6123 27.012,290.6123" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,206.5141 27.012,206.5141" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,122.4159 27.012,122.4159" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,38.3177 27.012,38.3177" style="fill:none;stroke:black;stroke-width:1" />
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(79.3769,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. September</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(147.4242,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. October</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(217.7398,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. November</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(285.7871,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. December</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(356.1026,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. January</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(426.4182,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. February</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(489.929,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. March</text>
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(560.2446,381.947)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">01. April</text>
+  <polyline points="79.3769,370.947 79.3769,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="147.4242,370.947 147.4242,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="217.7398,370.947 217.7398,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="285.7871,370.947 285.7871,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="356.1026,370.947 356.1026,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="426.4182,370.947 426.4182,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="489.929,370.947 489.929,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="560.2446,370.947 560.2446,377.947" style="fill:none;stroke:black;stroke-width:1" />
+  <polyline points="34.012,362.0958 38.5485,358.3114 45.3532,360.8343 47.6215,358.3114 49.8897,359.9933 52.158,357.8909 54.4262,358.3114 61.2309,358.7319 63.4992,362.0958 65.7674,362.5163 68.0357,361.6753 70.3039,361.6753 77.1086,364.6187 79.3769,365.8802 81.6451,365.8802 83.9134,365.0392 86.1816,365.4597 92.9863,365.4597 95.2546,367.5622 97.5228,366.3007 99.7911,363.7778 102.0593,362.0958 108.864,357.8909 111.1323,354.9474 113.4005,350.7425 115.6688,350.322 117.937,349.0606 124.7418,352.845 127.01,353.686 129.2782,353.2655 131.5465,351.5835 133.8147,349.4811 140.6195,339.3893 142.8877,340.6507 145.156,341.0712 147.4242,334.7639 149.6924,328.877 156.4972,322.1491 158.7654,328.036 161.0337,322.5696 163.3019,316.6828 165.5701,315.0008 172.3749,302.3861 174.6431,312.0574 176.9114,307.0115 179.1796,295.6582 181.4479,279.2591 188.2526,258.2345 190.5208,259.496 192.7891,256.973 195.0573,237.6304 197.3256,233.846 204.1303,177.0797 206.3985,192.6379 208.6668,192.6379 210.935,188.0125 213.2033,162.783 220.008,170.7724 222.2762,212.8215 224.5445,203.5707 226.8127,191.3764 229.081,186.3305 235.8857,158.1576 238.154,175.3978 240.4222,163.2035 244.9587,139.656 251.7634,134.6101 254.0317,158.1576 256.2999,164.465 258.5681,137.9741 260.8364,158.5781 267.6411,177.9207 269.9094,193.4789 272.1776,188.0125 274.4459,201.0477 276.7141,181.2846 283.5188,156.4757 285.7871,170.3519 288.0553,191.7969 290.3236,184.2281 292.5918,195.1608 299.3965,142.5995 301.6648,164.8855 303.933,177.0797 306.2013,156.0552 308.4695,142.5995 315.2742,100.5504 317.5425,127.0413 319.8107,137.1331 322.079,122.8364 324.3472,100.1299 331.152,67.7521 333.4202,92.561 335.6884,113.5856 347.0297,66.4906 349.2979,89.1971 351.5661,106.0167 353.8344,88.3561 362.9074,88.7766 365.1756,111.4831 367.4439,143.4404 369.7121,150.5888 371.9803,126.2003 381.0533,172.8748 383.3216,194.3199 385.5898,185.0691 387.858,208.6166 394.6628,222.4928 396.931,246.8812 399.1993,253.1886 401.4675,251.5066 403.7358,247.7222 410.5405,247.3017 415.077,256.973 417.3452,239.3124 419.6135,227.9591 426.4182,229.6411 428.6864,248.9837 430.9547,265.8033 433.2229,257.814 435.4912,257.814 442.2959,272.9517 444.5641,283.8845 446.8324,277.5771 449.1006,264.9624 451.3689,252.3476 458.1736,261.5984 460.4419,292.7148 462.7101,291.0328 464.9783,282.2025 467.2466,301.1246 474.0513,309.1139 476.3196,316.6828 478.5878,311.6369 480.856,309.9549 483.1243,312.0574 489.929,314.1598 492.1973,324.6721 494.4655,317.5237 496.7338,294.8172 499.002,293.5558 505.8067,276.3156 508.075,276.3156 510.3432,269.5878 512.6115,259.0755 514.8797,246.0403 521.6844,237.21 523.9527,238.4714 526.2209,239.3124 528.4892,212.8215 530.7574,194.7404 537.5621,172.4543 539.8304,172.8748 542.0986,174.5568 544.3669,145.5429 546.6351,140.0765 553.4399,136.2921 555.7081,166.147 557.9763,172.0338 560.2446,161.9421 562.5128,131.2462 571.5858,112.3241 573.854,115.688 576.1223,84.9922 578.3905,78.2643 585.1953,70.6955 587.4635,72.798 589.7318,49.6709 592,32.4308" style="fill:none;stroke:rgb(31,119,180);stroke-width:2;stroke-linejoin:bevel" />
+  <text dominant-baseline="hanging" text-anchor="middle" transform="translate(313.006,8)" font-family="Segoe UI" font-size="18" font-weight="700" fill="black">Aktive Fälle Stadt Aachen 15.04.2021</text>
   <polygon points="34.012,29.0795 592,29.0795 592,370.947 34.012,370.947" style="fill:none;stroke:black;stroke-width:1" />
   <polygon points="42.012,37.0795 228.483,37.0795 228.483,63.1325 42.012,63.1325" style="fill:none;stroke:none;" />
-  <text dominant-baseline="hanging" text-anchor="start" transform="translate(70.012,45.0795)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">Aktive Fälle Stadt Aachen 14.04.2021</text>
+  <text dominant-baseline="hanging" text-anchor="start" transform="translate(70.012,45.0795)" font-family="Segoe UI" font-size="12" font-weight="400" fill="black">Aktive Fälle Stadt Aachen 15.04.2021</text>
   <polyline points="50.012,50.106 66.012,50.106" style="fill:none;stroke:rgb(31,119,180);stroke-width:2" />
 </svg>
