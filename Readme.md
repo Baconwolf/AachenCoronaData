@@ -11,6 +11,14 @@ sowie dem [Meldungsarchiv](https://www.staedteregion-aachen.de/de/navigation/aem
 
 Zur Berechnung der Inzidenz werden die Einwohnerzahlen von [IT-NRW](https://www.it.nrw/statistik/eckdaten/bevoelkerung-nach-gemeinden-93051) aus dem Jahr 2019 genutzt.
 
+## RKI-Inzidenzdaten
+
+Im folgenden die vom RKI herausgegebenen Daten der letzten Tage und die daraus resultierende Beschränkungsstufe.
+
+![RKI7-Tage-Inzidenz](incidence7-aachen-rki.svg)
+
+Die Inzidenzwerte werden aus denen vom [RKI veröffentlichten Daten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Inzidenzen.html) extrahiert.
+
 
 ## Diagramme
 
