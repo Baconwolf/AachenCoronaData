@@ -14,8 +14,13 @@ Zur Berechnung der Inzidenz werden die Einwohnerzahlen von [IT-NRW](https://www.
 ## RKI-Inzidenzdaten
 
 Im folgenden die vom RKI herausgegebenen Daten der letzten Tage und die daraus resultierende Beschränkungsstufe.
+Ab dem 03.05.2021 werden in Aachen die korrigierten Inzidenzwerte (enthalten Nachmeldungen) als Grundlage für Beschränkungen verwendet.
 
 ![RKI7-Tage-Inzidenz](incidence7-aachen-rki.svg)
+
+### Regeln
+1. Wenn ein Grenzwert 3 Tage lang überschritten wird, tritt die Beschränkung 2 Tage später in Kraft
+2. Wenn ein Grenzwert 5 Tage lang unterschritten wurde, wird 2 Tage später die Beschränkung zurückgenommen.
 
 Die Inzidenzwerte werden aus denen vom [RKI veröffentlichten Daten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Inzidenzen.html) extrahiert.
 
